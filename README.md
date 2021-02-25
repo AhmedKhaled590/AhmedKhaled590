@@ -40,7 +40,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
 
 </div>
-
+  
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AhmedKhaled590&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 <!--
 **AhmedKhaled590/AhmedKhaled590** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
