@@ -15,6 +15,8 @@
 
 <div align="center">
 
+# You can contact me via
+
 <a href="https://www.linkedin.com/in/ahmed-khaled-a53363193/">
   <img align="left" alt="Khaldon's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
 </a>
@@ -27,8 +29,13 @@
 </a>
 
 </div>
+<br/>
 
-# <img src="https://media1.giphy.com/media/1NYkJ0wTvncdXV5dN5/giphy.gif" width="50"> My Skills
+<div align="center">
+  
+# <img src="https://media1.giphy.com/media/1NYkJ0wTvncdXV5dN5/giphy.gif" width="50">  My Skills 
+</div>
+
 
 <div align="center">
   
@@ -40,7 +47,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
 
 </div>
-  
+<br/>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AhmedKhaled590&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 <!--
