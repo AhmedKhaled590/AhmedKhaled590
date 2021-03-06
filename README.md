@@ -17,15 +17,19 @@
 
 # You can contact me via
 
-<a href="https://www.linkedin.com/in/ahmed-khaled-a53363193/">
+<a href="https://www.linkedin.com/in/ahmed-khaled-a53363193/" target="_blank">
   <img align="left" alt="Khaldon's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
 </a>
-<a href="https://github.com/AhmedKhaled590">
+<a href="https://github.com/AhmedKhaled590" target="_blank">
   <img align="left" alt="Khaldon's github" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg" draggable="false" />
 </a>
 
-<a href="http://codeforces.com/profile/kahmd1444">
+<a href="http://codeforces.com/profile/kahmd1444" target="_blank">
   <img align="left" alt="Khaldon's codeforces" width="40px" src="https://lh3.googleusercontent.com/-9azrA7GgyNpNVfHRI5xLhRyy4OuqevecUAjUFFfpJccTGHkdd4oXYfw11Z5-jxlDRM=s200" draggable="false" />
+</a>
+
+<a href="https://competent-colden-fcfe20.netlify.app/" target="_blank">
+  <img align="left" alt="Khaldon's codeforces" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/3048/3048122.svg?token=exp=1615065817~hmac=6f507645cad135a0836dbe6f6696dbbd" draggable="false" />
 </a>
 
 </div>
