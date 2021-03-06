@@ -28,7 +28,7 @@
   <img align="left" alt="Khaldon's codeforces" width="40px" src="https://lh3.googleusercontent.com/-9azrA7GgyNpNVfHRI5xLhRyy4OuqevecUAjUFFfpJccTGHkdd4oXYfw11Z5-jxlDRM=s200" draggable="false" />
 </a>
 
-<a href="https://competent-colden-fcfe20.netlify.app/" target="_blank">
+<a href="https://serene-kare-8ac9a8.netlify.app/" target="_blank">
   <img align="left" alt="Khaldon's codeforces" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/3048/3048122.svg?token=exp=1615065817~hmac=6f507645cad135a0836dbe6f6696dbbd" draggable="false" />
 </a>
 
