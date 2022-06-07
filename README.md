@@ -1,3 +1,6 @@
+
+# Hey <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px" height="40px">, I'm [Khaldon!](https://github.com/AhmedKhaled590) 
+
 <p align="center">
 
   <img src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216" alt="Coder GIF" width="500" height="400">
@@ -9,13 +12,13 @@
 
 
 [![Repos Badge](https://badges.pufler.dev/repos/AhmedKhaled590)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/AhmedKhaled590)](https://badges.pufler.dev)
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedkhaled590" alt="ahmedkhaled590" /></a> </p>
    -->
 
 
 </div>
 
-# Hey <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px">, I'm [Khaldon!](https://github.com/AhmedKhaled590) 
 
 <br/>
 
@@ -72,11 +75,14 @@
 </div>
 <br/>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AhmedKhaled590&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+<p></p>
+<p><img style="margin-top:10px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedkhaled590&show_icons=true&locale=en&layout=compact" alt="ahmedkhaled590" /></p>
 
-<!--
-**AhmedKhaled590/AhmedKhaled590** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=AhmedKhaled590&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/></p>
 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedkhaled590&" alt="ahmedkhaled590" /></p>
+
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -87,4 +93,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
