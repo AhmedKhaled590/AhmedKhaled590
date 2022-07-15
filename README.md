@@ -1,14 +1,12 @@
 
 # Hey <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px" height="40px">, I'm [Khaldon!](https://github.com/AhmedKhaled590) 
-
 <p align="center">
-
   <img src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216" alt="Coder GIF" width="500" height="400">
-  
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedkhaled590&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedKhaled" /> </p>
 <div align="center">
   
-<!-- [![Most Active GitHub User Rank](https://en4ykswhoyisq3x.m.pipedream.net)](https://commits.top/egypt.html) -->
+[![Most Active GitHub User Rank](https://enbrjs1bz8y6wcv.m.pipedream.net)
 
 
 [![Repos Badge](https://badges.pufler.dev/repos/AhmedKhaled590)](https://badges.pufler.dev)
@@ -82,11 +80,11 @@
 <br/>
 
 <p></p>
-<p><img style="margin-top:10px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedkhaled590&show_icons=true&locale=en&layout=compact" alt="ahmedkhaled590" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedKhaled590&show_icons=true&locale=en&layout=compact" alt="AhmedKhaled" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=AhmedKhaled590&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedKhaled590&show_icons=true&locale=en" alt="AhmedKhaled" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedkhaled590&" alt="ahmedkhaled590" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedKhaled590&" alt="AhmedKhaled" /></p>
 
 <!-- 
 Here are some ideas to get you started:
