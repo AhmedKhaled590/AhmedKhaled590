@@ -77,12 +77,13 @@
 <br/>
 
 <p></p>
+<div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedKhaled590&show_icons=true&locale=en&layout=compact" alt="AhmedKhaled" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedKhaled590&show_icons=true&locale=en" alt="AhmedKhaled" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedKhaled590&" alt="AhmedKhaled" /></p>
-
+</div>
 <!-- 
 Here are some ideas to get you started:
 
