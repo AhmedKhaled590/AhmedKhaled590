@@ -84,7 +84,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedKhaled590" alt="AhmedKhaled" /></p>
 
-
 </div>
 <!-- 
 Here are some ideas to get you started:
