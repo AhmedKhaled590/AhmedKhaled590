@@ -12,6 +12,13 @@
   <code> - 🌱 I’m currently Algorithms Unplugged
  </code>
 </div>
+  <div align="center">
+    <p>- 💬 Favourite Quotes:</p>
+  <code> 
+       - “ Code is like humor. When you have to explain it, it’s bad.” – Cory House
+ </code>
+</div>
+ 
 <br/>
 
 <div align="center">
