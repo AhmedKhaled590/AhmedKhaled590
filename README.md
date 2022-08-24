@@ -9,7 +9,7 @@
   
 
 <div align="center">
-  <code> - 🌱 I’m currently Algorithms Unplugged
+  <code> - 🌱 I’m currently readint Algorithms Unplugged
  </code>
 </div>
   <div align="center">
