@@ -7,14 +7,9 @@
 
 <div align="center">
   
-<div align="center">
-  <code> - 🌱 I’m currently learning PHP Laravel 
- </code>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="40" height="40" />
-</div>
 
 <div align="center">
-  <code> - 🌱 I’m currently reading Fundamentals of Database Systems by [ElMasri - Navathe]
+  <code> - 🌱 I’m currently Algorithms Unplugged
  </code>
 </div>
 <br/>
